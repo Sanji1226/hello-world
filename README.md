@@ -1,2 +1,2 @@
 # hello-world
-Sanji's first repository
+Print "Hello World"
